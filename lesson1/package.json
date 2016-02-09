@@ -1,0 +1,25 @@
+{
+  "name": "@risingstack/node-zero-to-hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "verify": "mocha index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RisingStack/node-zero-to-hero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RisingStack/node-zero-to-hero/issues"
+  },
+  "homepage": "https://github.com/RisingStack/node-zero-to-hero#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "chai-subset": "1.2.0",
+    "mocha": "2.4.5",
+    "nock": "7.0.2"
+  }
+}
